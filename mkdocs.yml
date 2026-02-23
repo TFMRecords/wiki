@@ -5,12 +5,31 @@ repo_url: https://github.com/TFMRecords/wiki
 repo_name: GitHub
 edit_uri: edit/main/docs/
 
+nav:
+  - index.md
+  - rules.md
+  - recording.md
+  - module.md
+  - discord.md
+
+  - module:
+    - commands.md
+
+  - game:
+    - clients.md
+    - perm-codes.md
+
+  - community:
+    - Website: https://www.tfmrecords.com/
+    - Discord: https://discord.gg/w23Gz9f
+    - Youtube: https://www.youtube.com/channel/UChPkTpo59KNfXhmDu7ryZXw
+
+
 theme:
   name: material
   logo: assets/logo.png
   favicon: assets/favicon.ico
   features:
-    - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.top
@@ -20,7 +39,6 @@ theme:
     - search.highlight
     - search.suggest
     - toc.follow
-  language: en
   palette:
     # Dark mode
     - scheme: slate
@@ -46,12 +64,31 @@ plugins:
         - locale: en
           name: English
           default: true
+          nav_translations:
+            community: Community
+            module: Module
+            game: Game
+
         - locale: tr
           name: Türkçe
+          nav_translations:
+            community: Topluluk
+            module: Modül
+            game: Oyun
+
         - locale: es
           name: Español
+          nav_translations:
+            community: Comunidad
+            module: Módulo
+            game: Juego
+
         - locale: pt
           name: Português
+          nav_translations:
+            community: Comunidade
+            module: Módulo
+            game: Jogo
 
 markdown_extensions:
   - admonition
