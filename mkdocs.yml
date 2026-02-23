@@ -22,12 +22,21 @@ theme:
     - toc.follow
   language: en
   palette:
+    # Dark mode
+    - scheme: slate
+      primary: deep-purple
+      accent: deep-purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+    # Light mode
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: deep-purple
+      accent: deep-purple
       toggle:
         icon: material/weather-night
-        name: Dark mode
+        name: Switch to dark mode
 
 plugins:
   - search
@@ -49,3 +58,6 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+
+extra_css:
+  - stylesheets/extra.css
