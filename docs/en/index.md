@@ -50,7 +50,7 @@ Once you’re ready to play and record you can start using the module.
 
 After finishing your run, join our discord server and submit the command.
 
-👉 [Discord Guide](../discord.md)
+👉 [Discord Guide](../join-discord.md)
 
 ---
 

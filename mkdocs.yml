@@ -10,7 +10,7 @@ nav:
   - rules.md
   - recording.md
   - using-module.md
-  - discord.md
+  - join-discord.md
 
   - module:
     - commands.md
@@ -21,9 +21,9 @@ nav:
     - perm-codes.md
 
   - community:
-    - Website: https://www.tfmrecords.com/
-    - Discord: https://discord.gg/w23Gz9f
-    - Youtube: https://www.youtube.com/channel/UChPkTpo59KNfXhmDu7ryZXw
+    - website.md
+    - discord.md
+    - youtube.md
 
 
 theme:
