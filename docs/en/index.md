@@ -1,5 +1,6 @@
 ---
 title: Getting Started
+icon: material/home
 ---
 
 Welcome to the TFM Records Wiki.
@@ -41,7 +42,7 @@ Make sure to read information provided above map and category pages.
 
 Once you’re ready to play and record you can start using the module.
 
-👉 [Records Module Guide](../module.md)
+👉 [Records Module Guide](../using-module.md)
 
 ---
 

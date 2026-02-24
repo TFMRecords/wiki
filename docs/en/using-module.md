@@ -1,8 +1,9 @@
 ---
 title: Using Module
+icon: fontawesome/solid/hashtag
 ---
 
-# Using the Records Module
+# Records Module
 
 This page explains how to use the **#records module** to play maps, record your run, and submit your result.
 
@@ -67,22 +68,3 @@ The module will generate a submission hash message starting with:
 
 📋 **Copy that entire message.**
 You will need it to complete your submission.
-
----
-
-## Commands Reference
-
-For more module commands, visit the [commands page](../commands.md).
-
----
-
-## Hotkeys
-
-- **L** for leaderboard
-- **Delete** for /mort unless rebinded.
-
----
-
-## Next Step
-
-👉 [Discord Guide](../discord.md)

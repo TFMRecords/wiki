@@ -1,5 +1,6 @@
 ---
 title: Discord
+icon: material/chat
 ---
 
 ## Join the Server

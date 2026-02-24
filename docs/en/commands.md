@@ -1,6 +1,9 @@
 ---
 title: Commands
+icon: material/code-tags
 ---
+
+Records module has various commands you can utilize.
 
 | Command | Example | Description |
 |:--------|:--------|:------------|

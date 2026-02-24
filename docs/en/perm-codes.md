@@ -1,5 +1,6 @@
 ---
 title: Perm Codes
+icon: material/map
 ---
 
 The game has different map categories.

@@ -9,14 +9,15 @@ nav:
   - index.md
   - rules.md
   - recording.md
-  - module.md
+  - using-module.md
   - discord.md
 
   - module:
     - commands.md
+    - hotkeys.md
 
   - game:
-    - clients.md
+    - official-standalones.md
     - perm-codes.md
 
   - community:
